@@ -1,0 +1,26 @@
+Request ID,Student ID,Student Name,Duration (mins),Earliest Available,Latest Available,Priority,Load Size,Arrival Order
+REQ-01,STU-101,Aarav Sharma,90,16:15,18:15,Low,Small (3kg),1
+REQ-02,STU-102,Priya Patel,90,11:00,12:45,Low,Heavy Bedding (9kg),2
+REQ-03,STU-103,Rohan Verma,30,15:15,18:45,Normal,Medium (5kg),3
+REQ-04,STU-104,Ananya Iyer,60,15:15,18:15,Normal,Large (7kg),4
+REQ-05,STU-105,Vikram Singh,60,10:00,11:30,Normal,Medium (5kg),5
+REQ-06,STU-106,Sneha Rao,60,19:30,21:00,Low,Medium (5kg),6
+REQ-07,STU-107,Aditya Nair,90,11:00,15:00,High,Heavy Bedding (9kg),7
+REQ-08,STU-108,Meera Joshi,60,15:00,17:00,Urgent,Medium (5kg),8
+REQ-09,STU-109,Kabir Mehta,120,11:45,15:45,Normal,Small (3kg),9
+REQ-10,STU-110,Tanvi Kulkarni,60,09:30,11:00,Normal,Medium (5kg),10
+REQ-11,STU-111,Arjun Reddy,75,16:45,19:45,Normal,Heavy Bedding (9kg),11
+REQ-12,STU-112,Diya Mukherjee,60,15:15,16:45,Urgent,Medium (5kg),12
+REQ-13,STU-113,Siddharth Gupta,120,09:30,11:45,Normal,Large (7kg),13
+REQ-14,STU-114,Ishita Roy,90,14:15,18:15,High,Large (7kg),14
+REQ-15,STU-115,Karan Malhotra,45,19:45,22:00,Normal,Heavy Bedding (9kg),15
+REQ-16,STU-116,Rhea Sengupta,60,12:45,14:45,Normal,Medium (5kg),16
+REQ-17,STU-117,Varun Chawla,120,09:45,13:45,Low,Small (3kg),17
+REQ-18,STU-118,Pooja Hegde,30,18:30,22:00,High,Large (7kg),18
+REQ-19,STU-119,Nikhil Pillai,120,19:30,22:00,Low,Small (3kg),19
+REQ-20,STU-120,Bhavna Deshmukh,30,08:30,12:30,Normal,Large (7kg),20
+REQ-21,STU-121,Devendra Das,120,13:15,16:15,Normal,Heavy Bedding (9kg),21
+REQ-22,STU-122,Kavya Menon,60,15:00,19:00,Normal,Heavy Bedding (9kg),22
+REQ-23,STU-123,Sameer Bhatia,60,13:15,15:15,Low,Small (3kg),23
+REQ-24,STU-124,Ritu Saxena,45,11:00,15:00,Urgent,Small (3kg),24
+REQ-25,STU-125,Harshvardhan Jain,120,19:15,21:45,Normal,Medium (5kg),25
